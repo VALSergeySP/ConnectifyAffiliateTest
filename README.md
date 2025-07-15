@@ -4,6 +4,6 @@ This repository contains the WebGL build of Connectify, automatically deployed v
 
 **Play the game:** [Launch Connectify](https://valsergeysp.github.io/ConnectifyAffiliateTest/)
 
-Last updated: 2025-07-15 10:39:25 UTC
-Commit: 3f2cc52bd4f6ec6d399a1c516ae294730d8e8178
+Last updated: 2025-07-15 11:04:36 UTC
+Commit: 8f0a791d6acdc3b54c7174280f69459dc1607846
 Branch: publishing
